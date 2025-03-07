@@ -24,7 +24,7 @@ Requests camera permissions dynamically
 
 1️⃣ Clone this repository
 
-git clone https://github.com/your-username/flutter-face-liveliness.git
+git clone [https://github.com/your-username/flutter-face-liveliness.git](https://github.com/imamit29/face_recognition.git)
 cd flutter-face-liveliness
 
 2️⃣ Install dependencies
